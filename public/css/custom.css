@@ -1,0 +1,15 @@
+.large-banner img {
+    width: 100%;
+    margin: 0 auto;
+}
+.aa-product-img img {
+    width: 100%;
+}
+.aa-product-catg .product-item {
+    width: auto;
+}
+.browse-button {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
